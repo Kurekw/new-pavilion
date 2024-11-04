@@ -10,8 +10,8 @@
 			"biography" : "Ko-Eset of enigmatic Falcon clan never shuns from lucrative opportunities and risky ventures. The jealous often accuse her of dabbling in sorcery but her industrious spirit and foresight are sole reasons for her wealth.",
 			"specialty" :
 			{
-				"description" : "{Gold}\r\n\r\nIncreases kingdom's income by 350 gold per day",
-				"tooltip" : "+350 Gold each day",
+				"description" : "Increases kingdom's income by 350 gold per day.",
+				"tooltip" : "Resource Bonus: +350 Gold",
 				"name" : "+350 Gold"
 			}
 		},

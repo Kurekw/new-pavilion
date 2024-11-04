@@ -6,12 +6,12 @@
 		"texts" :
 		{
 			"name" : "Elspeth",
-			"biography" : "Elspeth braved the endless desert uncountable number of times and seems to know all of its secrets by heart. All of his troops always seem invigorated and filled with unknown force, perhaps thanks to the fabled spring of life?",
+			"biography" : "Elspeth braved the endless desert uncountable number of times and seems to know all of its secrets by heart. All of her troops always seem invigorated and filled with unknown force, perhaps thanks to the fabled spring of life?",
 			"specialty" :
 			{
-				"description" : "{Life Source}\r\n\r\nIncreases hit points of all units in the army by 5%.",
-				"tooltip" : "Hit points + 5%",
-				"name" : "Life Source"
+				"description" : "All creatures receive +5% Health.",
+				"tooltip" : "+5% Health",
+				"name" : "Passive Bonus: Life Source"
 			}
 		},
 		

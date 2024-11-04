@@ -10,7 +10,7 @@
 			"biography" : "Marzum made his name as a sadistic and influential nabob by constantly exploiting his servants. It is said that there is nothing he loves more than a sound of the whip cracking on human skin.",
 			"specialty" :
 			{
-				"description" : "{Whippers and Overseers}\r\n\r\nIncreases the Attack and Defence of any Whippers or Overseers for each level attained after 1st level.",
+				"description" : "Increases the speed of Whippers or Overseers by 1 and their Attack and Defense skills for each level attained after 1st level.",
 				"tooltip" : "Creature Bonus: Whippers",
 				"name" : "Whippers"
 			}
