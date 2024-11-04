@@ -11,7 +11,7 @@
 			"biography" : "As everyone knows, Priestesses do not like to hurry. They do everything carefully and with grace, but Bast is different. On a horseback, she can outrun the fastest riders.",
 			"specialty" :
 			{
-				"description" : "{Logistics}\r\n\r\nReceives a 5% per level bonus to Logistics skill.",
+				"description" : "Receives a 5% per level bonus to Logistics skill percentage.",
 				"tooltip" : "Secondary Skill Bonus: Logistics",
 				"name" : "Logistics"
 			}

@@ -10,9 +10,9 @@
 			"biography" : "As an aspect of the Goddess’ rage, Sekhem is unfit to live with her sisters at the temple. In attempt to quench the undying thirst for blood and gore, she seeks battle during the times of war and unrest.",
 			"specialty" :
 			{
-				"description" : "{Offence}\r\n\r\nReceives a 5% per level bonus to Offence skill.",
-				"tooltip" : "Secondary Skill Bonus: Offence",
-				"name" : "Offence"
+				"description" : "Receives a 5% per level bonus to Offense skill percentage.",
+				"tooltip" : "Secondary Skill Bonus: Offense",
+				"name" : "Offense"
 			}
 		},
 	

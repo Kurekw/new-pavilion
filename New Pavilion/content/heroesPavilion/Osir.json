@@ -10,7 +10,7 @@
 			"biography" : "Osir’s family wealth allowed his healing talents to bloom under the tutelage of most esteemed priests. Sometimes, he ponders his unfulfilled ambition to become a powerful magus, but he takes great pride in his craft and eagerly aids the weak and the ill.",
 			"specialty" :
 			{
-				"description" : "{First Aid}\r\n\r\nReceives a 5% per level bonus to First Aid skill.",
+				"description" : "Receives a 5% per level bonus to First Aid skill.",
 				"tooltip" : "Secondary Skill Bonus: First Aid",
 				"name" : "First Aid"
 			}

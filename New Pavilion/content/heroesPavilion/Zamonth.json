@@ -10,7 +10,7 @@
 			"biography" : "Zamonth could never accept that necromantic arts had been banned by the priest caste. It was only because of his almost divine status that he was allowed to keep dark tomes containing the forbidden knowledge.",
 			"specialty" :
 			{
-				"description" : "{Mummies}\r\n\r\nTransforms undead creatures to Mummies.",
+				"description" : "Transforms undead creatures into Mummies.",
 				"tooltip" : "Special Upgrade: Mummies",
 				"name" : "Mummies"
 			}
@@ -77,7 +77,7 @@
 				"blackKnight2mummy" : { "subtype" : "creature.blackKnight" },
 				"dreadKnight2mummy" : { "subtype" : "creature.dreadKnight" },
 				"boneDragon2mummy" : { "subtype" : "creature.boneDragon" },
-				"zombie2ghostDragon" : { "subtype" : "creature.ghostDragon" }
+				"ghostDragon2mummy" : { "subtype" : "creature.ghostDragon" }
 			}
 		}	
 	}

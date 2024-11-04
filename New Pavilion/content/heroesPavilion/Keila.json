@@ -10,8 +10,8 @@
 			"biography" : "Young Keila never sought fame or approval, but when a grand magus invited her to work for him, she couldn’t refuse. Rewriting hundreds of parchments and tomes gave her great deal of arcane knowledge and satisfaction.",
 			"specialty" :
 			{
-				"description" : "{Slow}\r\n\r\nKnows a unique Slow spell variant that has increased effect (-1 speed for 1-6 level units).",
-				"tooltip" : "Specialist's Slow",
+				"description" : "Casts Specialist's Slow with increased effect (an additional -1 Speed for level 1 - 6 creatures).",
+				"tooltip" : "Spell Bonus: Specialist's Slow",
 				"name" : "Specialist's Slow"
 			}
 		},
